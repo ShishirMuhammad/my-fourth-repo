@@ -6,4 +6,14 @@ small{
 }
 p{
     background-color: powderblue;
+    border: 3px solid rebeccapurple;
+    margin: 70px;
+}
+h2{
+    color: blue;
+}
+.eid{
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    color: coral;
 }
